@@ -1,0 +1,27 @@
+{
+  "name": "keyboard-shortcuts",
+  "version": "1.0.0",
+  "description": "Here you can find many type of keyboard shortcuts for tools you're using in your daily development or practices in a categorised format which can help you a lot! (;",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learneradarsh/KeyBoard-Shortcuts.git"
+  },
+  "keywords": [
+    "KeyBoard-Shortcuts",
+    "Shortcuts",
+    "Useful-KeyBoard-Shortcuts"
+  ],
+  "author": "Adarsh Learner (https://learneradarsh.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learneradarsh/KeyBoard-Shortcuts/issues"
+  },
+  "homepage": "https://github.com/learneradarsh/KeyBoard-Shortcuts#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
