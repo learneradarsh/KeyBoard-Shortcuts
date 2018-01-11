@@ -55,6 +55,7 @@ If you would like to contribute here by any type of shortcuts you have you can f
 </body>
 </html>
 ```
+You can check preview of format from [here](https://photos.app.goo.gl/ahIMDYw3E7LY2JAx1)
 ***
 ### Support
 Feel free to contact us at our [gitter channel](https://gitter.im/KeyBoard-Shortcuts), we'd be happy to help!
